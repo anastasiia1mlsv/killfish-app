@@ -1,11 +1,3 @@
-Стек технологий:
-
-React Native + Expo
-Redux Toolkit
-React Navigation
-Axios
-TypeScript
-
 Установка: 
 
 1) Установка пакетов: npm install
